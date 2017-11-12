@@ -5,3 +5,6 @@ class BoardMember{
     this.training = z;
   }
 }
+BoardMember.prototype.veto = function(){
+  return 'No, I must disagree'
+}
