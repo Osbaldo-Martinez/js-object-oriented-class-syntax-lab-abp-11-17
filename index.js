@@ -19,7 +19,5 @@ BoardMember.prototype.sayHi = function(){
 }
 
 class Ceo extends BoardMember{
-  function hireEmployee(){
-    return 'Welcome aboard'
-  }
+  
 }
